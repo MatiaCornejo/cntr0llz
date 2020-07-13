@@ -1,4 +1,4 @@
 # cntr0llz
 __Desafios, WriteUps, Tutoriales etc.__
 
-# https://cntr0llz.cl/
+# https://cntr0llz.com/
